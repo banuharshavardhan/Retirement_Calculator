@@ -1,0 +1,6 @@
+framework module Pods_Retirement_Calculator_Retirement_CalculatorUITests {
+  umbrella header "Pods-Retirement Calculator-Retirement CalculatorUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
